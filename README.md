@@ -14,7 +14,7 @@ No [vídeo anterior](https://www.youtube.com/watch?v=DqTITcMq68k) eu expliquei o
 
 * Criar uma nova pasta no PC pra isso chamada `Git Tutorial`
 
-* Abrir o VSCode nessa pasta
+* Abrir o VSCode nessa pasta ->
 
 * Criar um novo arquivo `README.md`
 
